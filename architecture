@@ -1,0 +1,15 @@
+User Query
+   ↓
+Preference Extraction
+   ↓
+TF-IDF + FAISS Retrieval
+   ↓
+Metadata Filtering
+   ↓
+Re-ranking
+   ↓
+Context Check
+   ↓
+Groq LLM
+   ↓
+Final Answer
